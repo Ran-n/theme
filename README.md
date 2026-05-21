@@ -8,7 +8,7 @@ A collection of themes for various apps, all built around consistent color palet
 
 | App | Themes |
 |---|---|
-| [Discord](discord/) | Gruvbox Dark Medium |
+| [Discord — Vencord](discord/) | Gruvbox Dark Medium |
 
 ---
 
