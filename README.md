@@ -1,30 +1,42 @@
-# Gruvbox Dark Medium
+# theme
 
-A Discord theme built on the canonical [Gruvbox](https://github.com/morhetz/gruvbox) Dark Medium palette by morhetz.
+A collection of themes for various apps, all built around consistent color palettes.
 
-Compatible with **Vencord** and **BetterDiscord**. Requires Discord's built-in Dark Mode to be enabled.
+---
 
-## Preview
+## Apps
 
-![Gruvbox Dark Medium](.github/preview.png)
+| App | Themes |
+|---|---|
+| [Discord](discord/) | Gruvbox Dark Medium |
 
-## Installation
+---
 
-### Vencord
+## Discord
+
+Themes are compatible with **Vencord** and **BetterDiscord**. Requires Discord's built-in Dark Mode to be enabled.
+
+### Installation
+
+**Vencord**
 
 1. Open Vencord settings → Themes
 2. Click **Open Themes Folder**
-3. Drop `GruvboxDarkMedium.theme.css` into the folder
+3. Drop the `.theme.css` file into the folder
 4. Enable the theme
 
-### BetterDiscord
+**BetterDiscord**
 
 1. Open BetterDiscord settings → Themes
 2. Click **Open Themes Folder**
-3. Drop `GruvboxDarkMedium.theme.css` into the folder
+3. Drop the `.theme.css` file into the folder
 4. Enable the theme
 
-## Palette
+### Themes
+
+#### Gruvbox Dark Medium
+
+Canonical [Gruvbox](https://github.com/morhetz/gruvbox) Dark Medium palette by morhetz.
 
 | Role | Hex |
 |---|---|
@@ -36,10 +48,9 @@ Compatible with **Vencord** and **BetterDiscord**. Requires Discord's built-in D
 | Yellow | `#fabd2f` |
 | Red | `#fb4934` |
 
-## Fonts
+Fonts: **Inter** (UI) · **Fira Code** (code blocks)
 
-- **UI:** Inter
-- **Code:** Fira Code
+---
 
 ## License
 
