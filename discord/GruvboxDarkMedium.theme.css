@@ -1,10 +1,12 @@
 /**
  * @name          Gruvbox Dark Medium
- * @version       1.0
- * @description   Gruvbox Dark Medium palette. IBM Plex typography.
- *                Compatible with BetterDiscord and Vencord.
+ * @version       1.1
+ * @description   Gruvbox Dark Medium palette. Inter UI font, Fira Code for
+ *                code blocks. Compatible with BetterDiscord and Vencord.
  *                Requires Discord's built-in Dark Mode to be enabled.
  * @author        Ran#
+ * @authorLink    https://github.com/Ran-n
+ * @source        https://github.com/Ran-n/theme
  */
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap");
 
