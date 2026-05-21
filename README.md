@@ -34,7 +34,7 @@ Themes are compatible with **Vencord** and **BetterDiscord**. Requires Discord's
 
 ### Themes
 
-#### Gruvbox Dark Medium
+#### [Gruvbox Dark Medium](discord/GruvboxDarkMedium.theme.css)
 
 Canonical [Gruvbox](https://github.com/morhetz/gruvbox) Dark Medium palette by morhetz.
 
@@ -44,7 +44,7 @@ Canonical [Gruvbox](https://github.com/morhetz/gruvbox) Dark Medium palette by m
 | Surface | `#3c3836` |
 | Text | `#ebdbb2` |
 | Accent | `#458588` |
-| Aqua | `#8ec07c` |
+| Aqua / Green | `#8ec07c` |
 | Yellow | `#fabd2f` |
 | Red | `#fb4934` |
 
